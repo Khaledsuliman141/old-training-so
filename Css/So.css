@@ -1,0 +1,228 @@
+/*my rulz */
+body
+{
+    
+}
+
+.container
+{
+    width: 1170px;
+    margin: auto
+}
+
+.Clear-fix
+{
+    clear: both
+}
+
+/*Start Header*/
+
+header
+{
+    background-image: url(../Images/1.jpg);
+    background-size: cover;
+    height: 820px
+}
+
+header h2
+{
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    background: #020202;
+    color: #fff
+}
+
+header .container h1
+{
+    padding-top: 300px;
+    color: #020202
+}
+
+header .container p
+{
+    display: inline;
+    color: #68c59d;
+    font-size: xx-large
+}
+
+header .container a
+{
+    text-decoration: none;
+    color: #d76a94;
+    font-size: xx-large
+}
+/*End Header */
+
+/*Start 2nd s */
+
+.second .container ul
+{
+    float: left;
+    list-style: none
+}
+
+.second .container ul li
+{
+    float: right;
+    margin: 62px;
+}
+
+.second .container ul li a
+{
+    text-decoration: none;
+    color: #020202;
+    font-size: x-large
+}
+
+.second .container ul li a:hover
+{
+    color: #d76a94;
+    text-decoration: underline
+}
+/*End 2nd*/
+
+/*Start 3rd s */
+
+.third .container
+{
+    text-align: center
+}
+
+.third .container div img
+{
+    float: left;
+    height: 300px;
+    width: 32.3333%;
+    border: .1px outset #ececec;
+    cursor: pointer
+}
+
+.third .container button
+{
+    margin: 40px;
+    width: 160px;
+    height: 40px;
+    background: none;
+    border: 2px solid #b2b2b2;
+    border-radius: 5px;
+    cursor: pointer
+}
+
+.third .container button:hover
+{
+    background-color: #d76a94
+}
+/*End 3rd s */
+
+/*Start 4th s */
+
+.fourth
+{
+    padding-top: 80px;
+    padding-bottom: 80px
+}
+
+.fourth .container div 
+{
+    display: inline-block;
+    width: 300px
+}
+
+.fourth .container .left i
+{
+    margin-left: 20px
+}
+
+.fourth .container .right
+{
+    width: 700px
+}
+
+.fourth .container .right p
+{
+    display: inline;
+    margin-right: 20px
+}
+
+.fourth .container .right span
+{
+    font-weight: bold
+}
+
+.fourth .container .right form
+{
+    display: inline
+}
+
+.fourth .container .right form .text
+{
+    width: 230px;
+    height: 30px;
+    color: #b2b2b2
+}
+
+.fourth .container .right form .button
+{
+    margin: 10px;
+    width: 160px;
+    height: 40px;
+    background-color:#d76a94;
+    color: #fff;
+    border: 2px solid #b2b2b2;
+    border-radius: 5px;
+    cursor: pointer
+}    
+/*End 4th s */
+
+/*Start 5th s*/
+
+.fifth
+{
+    background-color: #020202
+}
+
+.fifth .container h1
+{
+    display: inline-block;
+    width: 300px;
+    color: #fff
+}
+
+.fifth .container p
+{
+    display: inline-block;
+    width: 700px;
+    color: #d8d3d3
+}
+/*End 5th s*/
+
+/*Start footer */
+
+footer
+{
+  background-color: #020202;
+  color: #f4f4f4;
+  text-align: center
+}
+
+footer .container div
+{
+    display: inline;
+    width: 300px;
+}
+
+footer .container div ul 
+{
+    list-style: none;
+    display: inline
+}
+
+footer .container div a
+{
+    text-decoration: none;
+    color: #f4f4f4;
+}
+
+/*End footer */
